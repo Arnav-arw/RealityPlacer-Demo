@@ -44,3 +44,23 @@ Firebase integration increases the scalabilty of RealityPlacer. In future I can 
 
 
 ## App's UI/UX 📱
+
+### 1. Home Page
+
+<img width="200" alt="image" src="https://user-images.githubusercontent.com/88189594/183464327-129a7562-fb7c-4a51-b060-ef81d5504596.jpeg">
+
+### 2. Model Browse Page
+
+<img width="200" alt="image" src="https://user-images.githubusercontent.com/88189594/183464399-edb0bdaf-f831-4753-9a1d-8554bac5e2d2.jpeg">
+
+### 3. Settings Page
+
+<img width="200" alt="image" src="https://user-images.githubusercontent.com/88189594/183464550-14d7cb92-4b5b-440d-8f71-9daa95386634.jpeg">
+
+### 4. Save And View Later
+
+<img width="200" alt="image" src="https://user-images.githubusercontent.com/88189594/183464651-d69f688b-ba15-4a6a-a328-c6be45fda8c6.jpeg">
+
+
+
+
