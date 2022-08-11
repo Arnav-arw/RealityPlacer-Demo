@@ -1,6 +1,6 @@
 # RealityPlacer
 
-RealityPlacer is a true augmented reality app which harness all powerful features provided by ARKit and RealityKit. It bring state of the art AR features to masses!
+RealityPlacer is a true augmented reality app which harness all powerful features provided by ARKit and RealityKit. It bring state of the art augmented reality features to the masses!
 
 <img width="500" alt="image" src="https://user-images.githubusercontent.com/88189594/183463831-a93eca84-32d4-4df2-b08b-512f507a93a6.png">
 
@@ -21,7 +21,7 @@ The project is built using [Swift](https://swift.org/documentation/#the-swift-pr
 ## Feature Showcase
 
 ### 1. Occulusion
-Occlusion in the field of augmented reality is the ability to cover virtual AR objects with objects physically located in the room – in case these real objects are in the foreground in front of the AR object/
+Occlusion in the field of augmented reality is the ability to cover virtual AR objects with objects physically located in the room – in case these real objects are in the foreground in front of the AR object.
 
 <img width="400" alt="image" src="https://user-images.githubusercontent.com/88189594/183463509-b51fde47-4934-41f3-8006-5e9afbd7bd2a.png">
 
@@ -47,7 +47,7 @@ Firebase integration increases the scalabilty of RealityPlacer. In future I can 
 
 ### 1. Home Page
 
-<img width="200" alt="image" src="https://user-images.githubusercontent.com/88189594/183464327-129a7562-fb7c-4a51-b060-ef81d5504596.jpeg">
+<img width="400" alt="image" src="https://user-images.githubusercontent.com/88189594/184073490-2540e002-d214-45e4-96f7-a0f47dbe263f.png">
 
 ### 2. Model Browse Page
 
@@ -61,6 +61,10 @@ Firebase integration increases the scalabilty of RealityPlacer. In future I can 
 
 <img width="200" alt="image" src="https://user-images.githubusercontent.com/88189594/183464651-d69f688b-ba15-4a6a-a328-c6be45fda8c6.jpeg">
 
+
+### 5. Deletion View
+
+<img width="200" alt="image" src="https://user-images.githubusercontent.com/88189594/183464327-129a7562-fb7c-4a51-b060-ef81d5504596.jpeg">
 
 
 
